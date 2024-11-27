@@ -1,5 +1,5 @@
 # Sobre mim
-<p>🌎 Desenvolvedor aprenndo o mundo do Front-End</p>
+<p>🌎 Desenvolvedor aprendendo o mundo do Front-End</p>
 <p>🖥️ Atualmente estudando Phyton e JavaScript</p>
 <p>🎓 Cursando Ciência da Computação na CESAR School 1/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
