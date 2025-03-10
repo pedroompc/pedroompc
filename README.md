@@ -1,7 +1,7 @@
 # Sobre mim
 <p>🌎 Desenvolvedor aprendendo o mundo do Front-End</p>
 <p>🖥️ Atualmente estudando Phyton e JavaScript</p>
-<p>🎓 Cursando Ciência da Computação na CESAR School 1/8<p/>
+<p>🎓 Cursando Ciência da Computação na CESAR School 2/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
  
 
@@ -18,6 +18,7 @@
 # Backend
 <div style="display: flex;">     
  <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=py"/>
+ <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=c"/>
 </div>
 
 # Ferramentas que utilizo
