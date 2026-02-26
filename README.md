@@ -1,7 +1,7 @@
 # Sobre mim
 <p>🌎 Desenvolvedor aprendendo o mundo do Full-Stack</p>
 <p>🖥️ Atualmente estudando Phyton e C</p>
-<p>🎓 Cursando Ciência da Computação na CESAR School 3/8<p/>
+<p>🎓 Cursando Ciência da Computação na Nova Roma 3/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
  
 
