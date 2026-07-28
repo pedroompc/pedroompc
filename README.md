@@ -1,65 +1,30 @@
-<h1 align="center">Pedro Marinho</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:f2a900&height=210&section=header&text=Pedro%20Marinho&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Gestor%20de%20Log%C3%ADstica%20que%20constr%C3%B3i%20software&descAlignY=56&descSize=18&animation=fadeIn" alt="header"/>
 
-<p align="center">
-  <strong>Construo sistemas de produção para logística — do banco de dados ao deploy.</strong><br>
-  <em>I build production systems for logistics — from database to deployment.</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-campos-204621339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pedroomarinhocampos@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Gestor+de+Log%C3%ADstica+que+programa;Full-Stack+Developer;TypeScript+%C2%B7+Python+%C2%B7+Supabase;Do+banco+de+dados+ao+deploy" alt="typing" />
 
----
+<br>
 
-### 🇧🇷 Sobre
+<a href="https://www.linkedin.com/in/pedro-campos-204621339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:pedroomarinhocampos@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 
-Gestor de logística que programa. No dia a dia eu transformo operação — faturamento,
-PDVs, efetivo, custos, devoluções — em software que a equipe usa de verdade: da
-modelagem do banco ao deploy em produção. Estudante de Ciência da Computação na
-Faculdade Nova Roma.
+</div>
 
-### 🇬🇧 About
+<br>
 
-Logistics manager who codes. I turn day-to-day operations — billing, points of sale,
-headcount, costs, returns — into software my team actually uses, from database design
-to production deployment. Computer Science student at Faculdade Nova Roma.
+<h3 align="center">🛠️ Tech Stack</h3>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,supabase,postgres,prisma,docker,git,tailwind&perline=6" alt="stack" />
+</div>
 
-### 🚀 Projetos em destaque · Featured projects
+<br>
 
-**🔒 Centro de Controle Logístico** · *TypeScript · Next.js · Supabase/PostgreSQL · Oracle*
-Plataforma de gestão logística: efetivo, custos, rendimentos, devoluções, receitas e
-PDVs atendidos. RBAC com Row-Level Security, integração com faturamento Oracle (Winthor)
-e deploy on-premise. Projeto profissional privado — *private professional project.*
+<h3 align="center">🐍 Contribuições · Contributions</h3>
 
-**🔒 Sistema Geral DIA** · *JavaScript · BI*
-Dashboard de BI sobre o Winthor: análise comercial e consolidação logística de entregas.
-Projeto profissional privado — *private professional project.*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pedroompc/pedroompc/output/github-snake-dark.svg" alt="snake animation" />
+</div>
 
-**🍕 [PizzaSystem](https://github.com/pedroompc/pizzaria-fullstack)** · *React · Node/Express · Prisma · JWT*
-Sistema fullstack de gestão de pizzaria: autenticação JWT, CRUD completo, documentação
-Swagger e integrações com IBGE e ViaCEP. Monorepo front + back.
-
----
-
-### 🛠️ Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-campos-204621339">LinkedIn</a> ·
-  <a href="mailto:pedroomarinhocampos@gmail.com">pedroomarinhocampos@gmail.com</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f2a900,100:0b3d91&height=120&section=footer" alt="footer"/>
