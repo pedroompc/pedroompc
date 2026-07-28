@@ -2,10 +2,6 @@
 
 <h1 align="center">Pedro Marinho</h1>
 
-<p align="center">
-  <em>Gestor de Logística que constrói software — do banco de dados ao deploy.</em>
-</p>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Gestor+de+Log%C3%ADstica+que+programa;Full-Stack+Developer;TypeScript+%C2%B7+Python+%C2%B7+Supabase;Do+banco+de+dados+ao+deploy" alt="typing" />
