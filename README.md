@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:f2a900&height=210&section=header&text=Pedro%20Marinho&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Gestor%20de%20Log%C3%ADstica%20que%20constr%C3%B3i%20software&descAlignY=56&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:f2a900&height=160&section=header" alt="header"/>
+
+<h1 align="center">Pedro Marinho</h1>
+
+<p align="center">
+  <em>Gestor de Logística que constrói software — do banco de dados ao deploy.</em>
+</p>
 
 <div align="center">
 
