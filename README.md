@@ -59,13 +59,6 @@ Swagger e integrações com IBGE e ViaCEP. Monorepo front + back.
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroompc&show_icons=true&hide_border=true&count_private=true&theme=default" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroompc&layout=compact&hide_border=true&langs_count=8" alt="top languages">
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-campos-204621339">LinkedIn</a> ·
   <a href="mailto:pedroomarinhocampos@gmail.com">pedroomarinhocampos@gmail.com</a>
